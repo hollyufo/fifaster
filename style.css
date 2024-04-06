@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+body {
+    background-color: #EAF0FF;
+    font-family: Outfit, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.log{
+    padding: 0;
+    margin: 0;
+}
+.login-btn {
+    border: solid 1px #0155A5;
+    border-radius: 100px;
+    padding: 10px 40px 10px 40px;
+}
+header{
+    padding: 24px 98px 24px 98px;
+    border-bottom: solid 1px #0155A5;
+}
