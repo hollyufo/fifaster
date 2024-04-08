@@ -9,12 +9,58 @@ body {
     padding: 0;
     margin: 0;
 }
+.logo-color{
+    color: #0155A5;
+
+}
 .login-btn {
     border: solid 1px #0155A5;
     border-radius: 100px;
     padding: 10px 40px 10px 40px;
 }
 header{
-    padding: 24px 98px 24px 98px;
     border-bottom: solid 1px #0155A5;
+}
+.sp-color{
+    color: #14A39A;
+}
+.sp-textcolor{
+    color: #666666;
+
+}
+.testamony{
+    background-color: #EAF0FF;
+}
+.color-text{
+    color: #1C2F41;
+}
+.getstarted-btn {
+    background-color: #0155A5;
+    color: white;
+    border-radius: 100px;
+    padding: 15px 32px 15px 32px;
+    margin-right: 30px;
+}
+.brand-partner{
+    background-image: url("./img/svgviewer-png-output.png");
+}
+.whyus{
+    background-image: url("./img/bg2.png");
+}
+@media (min-width: 768px) {
+    .nowrap {
+      flex-wrap: nowrap !important;
+    }
+  }
+.about-us-1{
+    background-image: url("./img/aboutus.png");
+}
+.service{
+    background-image: url("./img/bg3.png");
+}
+.footer-bg{
+    background-image: url("./img/svgviewer-png-output5.png");
+}
+.contact-info{
+    background-color: #0155A5 !important;
 }
